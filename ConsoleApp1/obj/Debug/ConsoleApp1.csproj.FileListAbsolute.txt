@@ -1,0 +1,12 @@
+C:\Users\Dojima\source\repos\Publix.Library.FileReader\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Dojima\source\repos\Publix.Library.FileReader\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Dojima\source\repos\Publix.Library.FileReader\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Dojima\source\repos\Publix.Library.FileReader\ConsoleApp1\bin\Debug\EntityFramework.dll
+C:\Users\Dojima\source\repos\Publix.Library.FileReader\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dojima\source\repos\Publix.Library.FileReader\ConsoleApp1\bin\Debug\EntityFramework.xml
+C:\Users\Dojima\source\repos\Publix.Library.FileReader\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dojima\source\repos\Publix.Library.FileReader\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Dojima\source\repos\Publix.Library.FileReader\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dojima\source\repos\Publix.Library.FileReader\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Dojima\source\repos\Publix.Library.FileReader\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Dojima\source\repos\Publix.Library.FileReader\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
